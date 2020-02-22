@@ -1,0 +1,10 @@
+{
+  "services": [
+    {
+      "ServiceType": "DependenciesInjection.Models.ITest",
+      "ImplementationType": "DependenciesInjection.Models.Test",
+      "Lifetime": "Transient",
+      "Assembly": "DependenciesInjection"
+    }
+  ]
+}
